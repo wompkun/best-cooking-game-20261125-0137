@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>Warung Rush — the little noodle stall that never sleeps</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #2b1d12;
+    height: 100%;
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+  }
+  body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  #wrap {
+    width: min(1280px, 100vw);
+    aspect-ratio: 1280 / 800;
+    position: relative;
+  }
+  canvas {
+    width: 100%;
+    height: 100%;
+    display: block;
+    background: #f7e8c9;
+    border-radius: 6px;
+  }
+  #help {
+    color: #f7e8c9;
+    font-size: 13px;
+    text-align: center;
+    padding: 8px 12px 0;
+    line-height: 1.5;
+  }
+  #help b { color: #f2c14e; }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="800"></canvas>
+</div>
+<div id="help">
+  <b>Warung Rush</b> — click ingredients (or press 1–8) to build each order, <b>SPACE</b> to serve,
+  <b>Backspace</b> to clear the plate, <b>P</b> to pause, <b>M</b> to mute. All art and sound made for this game.
+</div>
+<script type="module" src="./src/main.js"></script>
+</body>
+</html>
