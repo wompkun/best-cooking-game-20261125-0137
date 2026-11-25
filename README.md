@@ -1,6 +1,8 @@
 # 🍜 Warung Rush
 
-[![make.fun](https://make.fun/api/competitions/best-cooking-game-20261125-0137/badge)](https://make.fun/c/best-cooking-game-20261125-0137)
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/wompkun/best-cooking-game-20261125-0137/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/wompkun/best-cooking-game-20261125-0137/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
 
 **Warung Rush** is an original cooking game for the make.fun best-cooking-game bounty. You run a little Indonesian noodle stall — *Warung Senja* — that never sleeps. Customers queue up at the order board, and you build their dishes ingredient by ingredient on the counter, then serve them before their patience (and your shift timer) runs out.
 
